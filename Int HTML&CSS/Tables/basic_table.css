@@ -1,0 +1,279 @@
+.blue_table {
+    background: #4361ee;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Inter', system-ui, sans-serif;
+    padding: 1rem;
+    margin: 2.5rem;
+    box-shadow: 0 4px 6px -1px rgba(67, 97, 238, 0.2), 0 2px 4px -1px rgba(67, 97, 238, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.blue_table:hover {
+    transform: translateY(-2px);
+}
+
+.blue_table th {
+    background: #4361ee;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.blue_table td {
+    background: #6b83f2;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+}
+
+.green_table {
+    background: #38a169;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Inter', system-ui, sans-serif;
+    padding: 1rem;
+    margin: 2.5rem;
+    box-shadow: 0 4px 6px -1px rgba(56, 161, 105, 0.2), 0 2px 4px -1px rgba(56, 161, 105, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.green_table:hover {
+    transform: translateY(-2px);
+}
+
+.green_table th {
+    background: #38a169;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.green_table td {
+    background: #68d391;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+}
+
+.purple_table {
+    background: #805ad5;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Inter', system-ui, sans-serif;
+    padding: 1rem;
+    margin: 2.5rem;
+    box-shadow: 0 4px 6px -1px rgba(128, 90, 213, 0.2), 0 2px 4px -1px rgba(128, 90, 213, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.purple_table:hover {
+    transform: translateY(-2px);
+}
+
+.purple_table th {
+    background: none;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.purple_table td {
+    background: none;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+}
+
+.red_table {
+    background: #e53e3e;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Inter', system-ui, sans-serif;
+    padding: 1rem;
+    margin: 2.5rem;
+    box-shadow: 0 4px 6px -1px rgba(229, 62, 62, 0.2), 0 2px 4px -1px rgba(229, 62, 62, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.red_table:hover {
+    transform: translateY(-2px);
+}
+
+.red_table th {
+    background: #e53e3e;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.red_table td {
+    background: #fc8181;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+}
+
+.orange_table {
+    background: #dd6b20;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Inter', system-ui, sans-serif;
+    padding: 1rem;
+    margin: 2.5rem;
+    box-shadow: 0 4px 6px -1px rgba(221, 107, 32, 0.2), 0 2px 4px -1px rgba(221, 107, 32, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.orange_table:hover {
+    transform: translateY(-2px);
+}
+
+.orange_table th {
+    background: #dd6b20;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.orange_table td {
+    background: #f6ad55;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+}
+
+.yellow_table {
+    background: #6b46c1;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Inter', system-ui, sans-serif;
+    padding: 1rem;
+    margin: 2.5rem;
+    box-shadow: 0 4px 6px -1px rgba(107, 70, 193, 0.2), 0 2px 4px -1px rgba(107, 70, 193, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.yellow_table:hover {
+    transform: translateY(-2px);
+}
+
+.yellow_table th {
+    background: none;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.yellow_table td {
+    background: #bca629;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+}
+
+.indigo_table {
+    background: #5a67d8;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Inter', system-ui, sans-serif;
+    padding: 1rem;
+    margin: 2.5rem;
+    box-shadow: 0 4px 6px -1px rgba(90, 103, 216, 0.2), 0 2px 4px -1px rgba(90, 103, 216, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.indigo_table:hover {
+    transform: translateY(-2px);
+}
+
+.indigo_table th {
+    background: #5a67d8;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.indigo_table td {
+    background: #7f9cf5;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+}
+
+.violet_table {
+    background: #9f7aea;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: 'Inter', system-ui, sans-serif;
+    padding: 1rem;
+    margin: 2.5rem;
+    box-shadow: 0 4px 6px -1px rgba(159, 122, 234, 0.2), 0 2px 4px -1px rgba(159, 122, 234, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.violet_table:hover {
+    transform: translateY(-2px);
+}
+
+.violet_table th {
+    background: #9f7aea;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.violet_table td {
+    background: #b794f4;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+}
